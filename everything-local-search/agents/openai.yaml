@@ -1,4 +1,0 @@
-interface:
-  display_name: "Everything Local Search"
-  short_description: "Use Everything es for precise local file search on a configurable instance"
-  default_prompt: "Use $everything-local-search to find local files precisely with es, path scopes, extension filters, and the instance configured by the skill."

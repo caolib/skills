@@ -1,0 +1,4 @@
+interface:
+  display_name: "Everything Local Search"
+  short_description: "Use es.exe to search local files and folders fast"
+  default_prompt: "Use es.exe for local file and folder search with compatible options."
