@@ -12,7 +12,7 @@
 2. 下载 [es](https://www.voidtools.com/zh-cn/downloads/#cli) 命令行接口，并将`es.exe`文件所在目录添加到环境变量
 3. 补充条件：如果你使用的是`everything 1.5a`版本，将下面的设置为`false`然后退出重启`everything`
 
-![image-20260308160509949](./../../Users/caolib/AppData/Roaming/Typora/typora-user-images/image-20260308160509949.png)
+![image-20260308160509949](https://free.picui.cn/free/2026/03/13/69b3fbf1e94a8.png)
 
 
 
